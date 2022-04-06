@@ -1,0 +1,3 @@
+1. create a GUI project: console application
+2. Create DTO, DAO, BUS projects: class C#
+3. code tree class model
