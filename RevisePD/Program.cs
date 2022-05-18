@@ -39,8 +39,8 @@ namespace GUI
                     Console.WriteLine("Error");
                 }
 
-                // sleep 0.5 minite
-                Thread.Sleep(30000);
+                // sleep 10s
+                Thread.Sleep(10000);
             }
             
         }
